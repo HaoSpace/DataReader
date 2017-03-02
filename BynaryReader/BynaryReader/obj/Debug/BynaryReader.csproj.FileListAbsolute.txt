@@ -1,0 +1,12 @@
+D:\MyC#Project\BynaryReader\BynaryReader\bin\Debug\BynaryReader.exe.config
+D:\MyC#Project\BynaryReader\BynaryReader\bin\Debug\BynaryReader.exe
+D:\MyC#Project\BynaryReader\BynaryReader\bin\Debug\BynaryReader.pdb
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.csprojResolveAssemblyReference.cache
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.Properties.Resources.resources
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.csproj.GenerateResource.Cache
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.exe
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.pdb
+D:\MyC#Project\BynaryReader\BynaryReader\obj\Debug\BynaryReader.Form1.resources
+F:\MyProject\BynaryReader\BynaryReader\bin\Debug\BynaryReader.exe.config
+F:\MyProject\BynaryReader\BynaryReader\obj\Debug\BynaryReader.exe
+F:\MyProject\BynaryReader\BynaryReader\obj\Debug\BynaryReader.pdb
